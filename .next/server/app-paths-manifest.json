@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/disclaimer/page": "app/disclaimer/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/categories/page": "app/categories/page.js",
+  "/tools/json-formatter/page": "app/tools/json-formatter/page.js"
+}
